@@ -1,4 +1,4 @@
-# konsole-night-owl
+# konsole-night-owl-theme
 
 Night/Light Owl color theme port from https://github.com/sdras/night-owl-vscode-theme for Konsole.
 
